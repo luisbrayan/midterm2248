@@ -1,3 +1,8 @@
+body{
+    font-family: arial,sans-serif;
+    background-color: #EEE9E9;
+}
+
 /* Parent Container */
 .content_img{
     position: relative;
